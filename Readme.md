@@ -25,7 +25,7 @@ General Responsibilities @ Appscore
             <li> <b> <i>Technologies used:</i> </b>Java, Serenity BDD, Postman, Jenkins, Azure AWS</li>
         </td>
     </tr>
- </table><br><br>
+ </table><br>
 
 **Test Automation SME** @ [AGL](https://agl.com.au/) _(Jun 2019 - Aug 2021)_ <br>
 <table>
@@ -81,7 +81,7 @@ Build JS/TS automation suite for various projects within AGL’s My Account spac
             <li> <b> <i>Technologies used:</i> </b> CodeceptJS, Webdriverio, Protractor, CucumberJS, Bamboo, Stash, JIRA, Postman, Mountebank, Chai, Mocha, Javascript</li>
         </td>
     </tr>
- </table><br><br>
+ </table><br>
 
 **QA Automation Lead** @ [SICE](https://www.sice.com/en) _(Nov 2015 - Jun 2017)_ <br>
 Eastlink is Australia’s one of the leading Tolling companies. They are upgrading their technology and focusing on 4 key projects:
