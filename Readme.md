@@ -60,7 +60,7 @@ Build JS/TS automation suite for various projects within AGL’s My Account spac
  - Build and maintain front end test automation framework for My Account using protractor
  - API Test Automation using Jasmine and NodeJS
  - Mentor developers at AGL to adhere to strict quality measures by introducing test automation pyramid
- - _**Technologies Used:**_ Protractor, Jasmine, Angular, Bamboo, Octopus, JIRA, Postman, Javascript, Typescript<br></br>
+ - _**Technologies Used:**_ Protractor, Jasmine, Angular, Bamboo, Octopus, JIRA, Postman, Javascript, Typescript<br><br>
 
 **Senior Test Automation Engineer** @ Odecee - A Cognizant Digital Business _(Jun 2017 - Jan 2018)_ <br>
 
