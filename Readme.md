@@ -8,7 +8,7 @@ _QA Lead based in Melbourne, Australia_ <br>
 
 **QA Lead** @ [Appscore](https://www.appscore.com.au/) _(Aug 2021 - Present)_ <br>
 General Responsibilities @ Appscore
- - Lead a team of 15 QAs at Appscore QAs
+ - Lead a team of 15 QAs at Appscore
  - Resolve their People & Culture queries, conduct One on Ones and Performance Reviews
  - Interview and recruit new QAs that fit within the vision of the practice
 
