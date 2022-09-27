@@ -6,7 +6,19 @@ _QA Lead based in Melbourne, Australia_ <br>
 
 ## Technical Experience
 
-**QA Lead** @ [Appscore](https://www.appscore.com.au/) _(Aug 2021 - Present)_ <br>
+**QA Lead** @ [Service Victoria](https://service.vic.gov.au/) _(May 2022 - Present)_ <br>
+General Responsibilities @ Service Victoria
+ - Define and Develop Service Victoria's Quality roadmap for year 2022
+ - QA Capability Upliftment across all teams at Service Victoria
+ - Work with 12 teams to incorporate a consistent test automation strategy
+ - Identify gaps in current QA process and recommend/incorporate strategies to fill the gaps
+ - Lead design and development of UI and API test automation frameworks and strategy with use of tools such as Cypress, Postman, Browserstack
+ - Focus on increase productivity within team by applying strategies to enable early testing along with development
+ - _**Technologies Used:**_ Cypress, Mockoon, Browserstack, Buildkite, JIRA, Postman, Javascript, Typescript<br><br>
+
+
+
+**QA Lead** @ [Appscore](https://www.appscore.com.au/) _(Aug 2021 - May 2022)_ <br>
 General Responsibilities @ Appscore
  - Lead a team of 15 QAs at Appscore
  - Resolve their People & Culture queries, conduct One on Ones and Performance Reviews
