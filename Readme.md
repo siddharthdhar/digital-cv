@@ -2,7 +2,7 @@
 
 _QA Lead based in Melbourne, Australia_ <br>
 
-[Email](mailto:siddharthdhar04@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siddharthdhar01/) / [GitHub](https://github.com/siddharthdhar/) / [Twitter](https://twitter.com/carolstran/)
+[Email](mailto:siddharthdhar04@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siddharthdhar01/) / [GitHub](https://github.com/siddharthdhar/)
 
 ## Technical Experience
 
