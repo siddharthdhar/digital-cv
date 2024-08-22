@@ -7,7 +7,7 @@ _Cybersecurity Enthusiast (completed Cybersecurity Bootcamp from Monash Uni), lo
 
 ## Technical Experience
 
-**QA Lead** @ [[AGL](https://agl.com.au/) _(November 2022 - Present)_ <br>
+**QA Lead** @ [AGL](https://agl.com.au/) _(November 2022 - Present)_ <br>
 General Responsibilities @ AGL
  - Define and Develop AGL's Quality roadmap for year 2023 till date
  - Design and Develop an API Automation framework to test AGL's microservice/api infrastructure
