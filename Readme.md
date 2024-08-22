@@ -1,12 +1,22 @@
 # Siddharth Dhar
 
 _QA Lead based in Melbourne, Australia_ <br>
+_Cybersecurity Enthusiast (completed Cybersecurity Bootcamp from Monash Uni), looking for roles within cybersecurity space!_ <br>
 
 [Email](mailto:siddharthdhar04@gmail.com) / [LinkedIn](https://www.linkedin.com/in/siddharthdhar01/) / [GitHub](https://github.com/siddharthdhar/)
 
 ## Technical Experience
 
-**QA Lead** @ [Service Victoria](https://service.vic.gov.au/) _(May 2022 - Present)_ <br>
+**QA Lead** @ [[AGL](https://agl.com.au/) _(November 2022 - Present)_ <br>
+General Responsibilities @ AGL
+ - Define and Develop AGL's Quality roadmap for year 2023 till date
+ - Design and Develop an API Automation framework to test AGL's microservice/api infrastructure
+ - Uplift securtity with various API initiatives. Clean up DevSecOps pipelines to ensure security.
+ - QA Capability Upliftment across all teams at AGL
+ - _**Technologies Used:**_ Typescript, Angular, Testcafe, Mountebank, Superagent, Axios, Jasmine, Mocha, Jest, Chai, Newman, JIRA, Postman<br><br>
+
+
+**QA Lead** @ [Service Victoria](https://service.vic.gov.au/) _(May 2022 - November 2022)_ <br>
 General Responsibilities @ Service Victoria
  - Define and Develop Service Victoria's Quality roadmap for year 2022
  - QA Capability Upliftment across all teams at Service Victoria
@@ -18,7 +28,7 @@ General Responsibilities @ Service Victoria
 
 
 
-**QA Lead** @ [Appscore](https://www.appscore.com.au/) _(Aug 2021 - May 2022)_ <br>
+**QA Chapter Lead** @ [Appscore](https://www.appscore.com.au/) _(Aug 2021 - May 2022)_ <br>
 General Responsibilities @ Appscore
  - Lead a team of 15 QAs at Appscore
  - Resolve their People & Culture queries, conduct One on Ones and Performance Reviews
